@@ -170,7 +170,7 @@ footer {
   color:hsl(0, 0%, 98%);
   width: 100%;
   padding: 4rem 0;
-  background-image: url(/images/mobile/image-footer.jpg);
+  background-image: url(images/mobile/image-footer.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -216,7 +216,7 @@ footer {
     max-width: calc(25% - 40px);
   }
   footer {
-    background-image: url(/images/tablet/image-footer.jpg);
+    background-image: url(images/tablet/image-footer.jpg);
   }
   .footer-content-text {
     flex-direction: column;
@@ -318,7 +318,7 @@ footer {
 @media screen and (min-width: 1440px) {
   
   footer {
-    background-image: url(/images/desktop/image-footer.jpg);
+    background-image: url(images/desktop/image-footer.jpg);
     display: flex;
     position: relative;
   }
